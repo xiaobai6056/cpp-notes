@@ -1,0 +1,5 @@
+{
+    "mode": "professional",
+    "model_dir": "/root/workspace/model/deploy04",
+    "model_file": "deploy_paddle"
+}
